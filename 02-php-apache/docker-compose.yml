@@ -1,0 +1,9 @@
+version: '3'
+
+services: 
+  webphp:
+    image: php:8.2-apache
+    ports:
+      - 8080:80 # expone el puerto 8080
+    volumes:
+      - ./src:/var/www/html
