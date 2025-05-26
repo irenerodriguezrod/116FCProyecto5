@@ -1,4 +1,4 @@
-# 🐳 | 02-mysql-phpmiadmin
+# 🐳 | 03-mysql-phpmiadmin
 
 ## Realización de la actividad y pasos a seguir.
 
