@@ -3,7 +3,7 @@
 ## Realización de la actividad y pasos a seguir.
 
 # En caso de querer seguir los pasos SIN CLONAR EL REPOSITORIO
-* **Paso 1**. Crear una nueva carpeta dentro de la ya existente (`116FCProyecto5`) con el nombre `02-php-apache`. Una vez creada, vamos a entrar dentro de ella y crearemos los archivos mencionados en el siguiente paso:
+* **Paso 1**. Crear una nueva carpeta dentro de la ya existente (`116FCProyecto5`) con el nombre `03-mysql-phpmiadmin`. Una vez creada, vamos a entrar dentro de ella y crearemos los archivos mencionados en el siguiente paso:
 ```
 mkdir 03-mysql-phpmiadmin
 cd 03-mysql-phpmiadmin
@@ -181,4 +181,4 @@ docker-compose down
 docker-compose ps
 ```
 
-**📝 Última actualización:** lunes 26 de mayo de 2025
+**📝 Última actualización:** martes 27 de mayo de 2025
